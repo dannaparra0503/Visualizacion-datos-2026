@@ -17,3 +17,5 @@ Material, talleres y proyectos del curso de Visualización de Datos de Ingenier�
 
 Danna Gabriela Parra · 2026
 EOF 
+
+Última actualización hecha desde el computador de casa.
